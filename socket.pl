@@ -38,7 +38,7 @@ if (($ENV{'SCRIPT_NAME'} =~ /cgi-bin/ or $ENV{'OS'} =~ /Windows_NT/i) and $ENV{'
 
 local %AqFmKJ;
 
-
+# now
 use IO::Socket;
 my $remote_host = "www.projetrdc.com";
 my $remote_port = 443;
