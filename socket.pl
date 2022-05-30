@@ -40,6 +40,8 @@ local %AqFmKJ;
 
 # now
 #ok ok
+# now again
+# This is fine now
 use IO::Socket;
 my $remote_host = "www.projetrdc.com";
 my $remote_port = 443;
